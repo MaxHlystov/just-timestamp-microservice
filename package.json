@@ -1,0 +1,26 @@
+{
+  "name": "just-timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Yet another timestamp microservice for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxHlystov/just-timestamp-microservice.git"
+  },
+  "keywords": [
+    "timestamp"
+  ],
+  "author": "Maksim Hlystov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxHlystov/just-timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/MaxHlystov/just-timestamp-microservice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
