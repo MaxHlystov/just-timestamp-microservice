@@ -4,7 +4,7 @@
   "description": "Yet another timestamp microservice for FreeCodeCamp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/MaxHlystov/just-timestamp-microservice#readme",
   "dependencies": {
+    "bl": "^1.1.2",
     "body-parser": "^1.15.2",
     "express": "^4.14.0"
   }
