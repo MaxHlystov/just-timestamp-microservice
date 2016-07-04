@@ -5,11 +5,7 @@ User Story: If it does, it returns both the Unix timestamp and the natural langu
 
 User Story: If it does not contain a date or Unix timestamp, it returns null for those properties.*/
 
-var port;
-if(process.argv.length < 3){
-    port = 8080;
-}
-else port = process.argv[2];
+var port = (process.env.PORT || 5000);
 
 const express = require("express");
 const path = require("path");
