@@ -12,8 +12,8 @@ See task in [free code camp site](https://www.freecodecamp.com/challenges/timest
         
 Example usage:  
   ```
-  https://just-timestamp-microservice.herokuapp.com/December%2015,%202015
-  https://just-timestamp-microservice.herokuapp.com/1450137600
+  [https://just-timestamp-microservice.herokuapp.com/December%2015,%202015](https://just-timestamp-microservice.herokuapp.com/December%2015,%202015)
+  [https://just-timestamp-microservice.herokuapp.com/1450137600](https://just-timestamp-microservice.herokuapp.com/1450137600)
   ```
   
 Example output:
