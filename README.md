@@ -16,5 +16,5 @@ Example usage:
   https://just-timestamp-microservice.herokuapp.com/1450137600
   ```
   
-Example output:  
-  <div style="color:red">`{ "unix": 1450137600, "natural": "December 15, 2015" }`</div>
+Example output:
+        { "unix": 1450137600, "natural": "December 15, 2015" }'
