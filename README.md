@@ -2,7 +2,7 @@
 
 See task in [free code camp site](https://www.freecodecamp.com/challenges/timestamp-microservice).
 
-> User stories:
+####User stories:
 
 > 1. I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
 
@@ -17,4 +17,4 @@ Example usage:
   ```
   
 Example output:  
-        `{ "unix": 1450137600, "natural": "December 15, 2015" }`
+  `{ "unix": 1450137600, "natural": "December 15, 2015" }`  
