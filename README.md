@@ -11,10 +11,8 @@ See task in [free code camp site](https://www.freecodecamp.com/challenges/timest
 > - If it does not contain a date or Unix timestamp, it returns null for those properties.
         
 Example usage:  
-  ```
   [https://just-timestamp-microservice.herokuapp.com/December%2015,%202015](https://just-timestamp-microservice.herokuapp.com/December%2015,%202015)
   [https://just-timestamp-microservice.herokuapp.com/1450137600](https://just-timestamp-microservice.herokuapp.com/1450137600)
-  ```
   
 Example output:
 ```
